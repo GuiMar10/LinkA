@@ -1,8 +1,6 @@
-# LinkA
+# LinkA: Cresça no seu ritmo. Floresça em seu espaço.
 
 ![Logo da Linka](/static/branding/icon.png)
-
-Cresça no seu ritmo. Floresça em seu espaço.
 
 ## Nossa missão
 
