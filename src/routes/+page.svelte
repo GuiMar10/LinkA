@@ -1,7 +1,4 @@
 <script>
-  import svelteLogo from "./assets/svelte.svg";
-  import viteLogo from "/vite.svg";
-  import Counter from "./lib/Counter.svelte";
 </script>
 
 <h2>Oie, papai!</h2>
@@ -13,13 +10,13 @@
 <div class="card">Card ;)</div>
 
 <style lang="scss">
-  :global(body){
+  :global(body) {
     font-family: More Sugar;
     --borderColor: #521887;
   }
   @font-face {
     font-family: More Sugar;
-    src: url("./assets/MoreSugar-Regular.otf");
+    src: url("/MoreSugar-Regular.otf");
   }
   #search {
     width: max-content;
@@ -67,12 +64,12 @@
     text-align: center;
     place-content: center;
     &:hover {
-    scale: 1.02;
-  }
-  &:active {
-    scale: 1;
-    box-shadow: none;
-  }
+      scale: 1.02;
+    }
+    &:active {
+      scale: 1;
+      box-shadow: none;
+    }
   }
   h2 {
     font-family: More Sugar;

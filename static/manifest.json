@@ -1,0 +1,40 @@
+{
+  "name": "LinkA",
+  "short_name": "LinkA",
+  "theme_color": "#882fda",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
+  "description": "Ajudando autistas a superarem seus medos e florescerem em seu próprio espaço.",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/branding/icon.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/branding/screenshots/screenshot_wide1.png",
+      "sizes": "550x360",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Cresça no seu ritmo."
+    },
+    {
+      "src": "/branding/screenshots/screenshot_wide2.png",
+      "sizes": "550x360",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Floresça no seu espaço."
+    },
+    {
+      "src": "/branding/screenshots/screenshot_narrow1.png",
+      "sizes": "330x550",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Cresça no seu ritmo."
+    }
+  ]
+}
